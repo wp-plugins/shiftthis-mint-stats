@@ -37,4 +37,5 @@ The WordPress Mint Stats Plugin will allow you to view your Mint statistics from
 [support.ShiftThis.net](http://support.shiftthis.net)
 
 == Screenshots ==
-1. The URL Login Options Page.
+1. The Mint Stats Options Page.
+2. The Mint Tab Page.
