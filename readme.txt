@@ -32,10 +32,6 @@ The WordPress Mint Stats Plugin will allow you to view your Mint statistics from
 
 == Frequently Asked Questions ==
 
-= I get a Server Error message after installing or updating the Plugins Options =
-
-Something went wrong with the .htaccess file, you will need to either delete the .htaccess file and recreate it, or open the .htaccess file and remove everything between # BEGIN ST\_URLLogin and # END ST\_URLLogin
-
 = Where can I ask support questions for this plugin? =
 
 [support.ShiftThis.net](http://support.shiftthis.net)
