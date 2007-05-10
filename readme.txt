@@ -19,7 +19,7 @@ The WordPress Mint Stats Plugin will allow you to view your Mint statistics from
 2. Activate the plugin titled 'ShiftThis | Mint Stats' through the 'Plugins' menu in WordPress
 3. Access the **Options** Tab in your Admin Panel and select the **Mint Stats** SubMenu Item.
 
-== URL Login Options ==
+== Mint Options ==
 
 * **Mint Admin Page** - Enable the Mint Tab in the WordPress Admin Menu.
 * **Mint Menu Title** - Set the title of your Mint Tab.
